@@ -1,0 +1,14 @@
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.exe
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.deps.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.runtimeconfig.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.runtimeconfig.dev.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterProgram.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterService.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\bin\Debug\netcoreapp3.0\ConverterService.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.AssemblyInfo.cs
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.csproj.CopyComplete
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterProgram\obj\Debug\netcoreapp3.0\ConverterProgram.pdb

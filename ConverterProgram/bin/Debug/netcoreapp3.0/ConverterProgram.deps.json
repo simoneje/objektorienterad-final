@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConverterProgram/1.0.0": {
+        "dependencies": {
+          "ConverterService": "1.0.0"
+        },
+        "runtime": {
+          "ConverterProgram.dll": {}
+        }
+      },
+      "ConverterService/1.0.0": {
+        "runtime": {
+          "ConverterService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConverterProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConverterService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

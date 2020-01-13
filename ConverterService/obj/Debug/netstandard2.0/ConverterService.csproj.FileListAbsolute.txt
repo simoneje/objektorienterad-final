@@ -1,0 +1,8 @@
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.deps.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\bin\Debug\netstandard2.0\ConverterService.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.AssemblyInfo.cs
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService\obj\Debug\netstandard2.0\ConverterService.pdb

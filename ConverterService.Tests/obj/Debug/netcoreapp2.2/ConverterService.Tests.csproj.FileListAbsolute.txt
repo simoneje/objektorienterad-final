@@ -1,0 +1,16 @@
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.deps.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.runtimeconfig.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.runtimeconfig.dev.json
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.Tests.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\bin\Debug\netcoreapp2.2\ConverterService.pdb
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.AssemblyInfo.cs
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.csproj.CopyComplete
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.dll
+C:\Users\simon\Desktop\GIK299-Project-master\ConverterService.Tests\obj\Debug\netcoreapp2.2\ConverterService.Tests.pdb
